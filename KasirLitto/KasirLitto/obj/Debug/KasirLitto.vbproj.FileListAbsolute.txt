@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\KasirLitto\KasirLitto\bin\Debug\KasirLitto.exe.config
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\bin\Debug\KasirLitto.exe.config
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\bin\Debug\KasirLitto.exe
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\bin\Debug\KasirLitto.pdb
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\bin\Debug\KasirLitto.xml
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\obj\Debug\KasirLitto.Form1.resources
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\obj\Debug\KasirLitto.Resources.resources
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\obj\Debug\KasirLitto.vbproj.GenerateResource.Cache
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\obj\Debug\KasirLitto.exe
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\obj\Debug\KasirLitto.xml
+D:\Users\user\Documents\Visual Studio 2012\Projects\KasirLitto\KasirLitto\obj\Debug\KasirLitto.pdb
